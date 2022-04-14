@@ -1,0 +1,34 @@
+{
+    "name": "sigareng/nam",
+    "description": "Nam is a open source PHP router. super small, fast, and powerful, micro-framework",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "sigareng\\Nam\\": "./"
+        }
+    },
+    "minimum-stability": "dev",
+    "keywords": [
+        "router",
+        "php-router",
+        "php",
+        "routers",
+        "php-routers",
+        "render",
+        "php-render",
+        "micro",
+        "framework",
+        "api",
+        "micro-framework"
+    ],
+    "homepage": "https://github.com/sigareng/nam",
+    "authors": [
+        {
+            "name": "sigareng",
+            "email": "fans_gareng@yahoo.fr"
+        }
+    ],
+    "require": {
+        "php": ">=7.2"
+    }
+}
